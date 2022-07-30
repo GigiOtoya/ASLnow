@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 975b5e0f7d62243fa85bfd69b29fe0af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6919298701154688721
+    second: KeyboardSignsTexture_0
+  - first:
+      213: -3748894357652748525
+    second: KeyboardSignsTexture_1
+  - first:
+      213: 1274369023179088457
+    second: KeyboardSignsTexture_2
+  - first:
+      213: -5467853199821206724
+    second: KeyboardSignsTexture_3
+  - first:
+      213: -7384707493701568089
+    second: KeyboardSignsTexture_4
+  - first:
+      213: -7088697646632194783
+    second: KeyboardSignsTexture_5
+  - first:
+      213: 5164711263776938867
+    second: KeyboardSignsTexture_6
+  - first:
+      213: 6777319794425455970
+    second: KeyboardSignsTexture_7
+  - first:
+      213: -1047053276948153628
+    second: KeyboardSignsTexture_8
+  - first:
+      213: -8773597977407010761
+    second: KeyboardSignsTexture_9
+  - first:
+      213: -1207373165137436205
+    second: KeyboardSignsTexture_10
+  - first:
+      213: 4868264326606907689
+    second: KeyboardSignsTexture_11
+  - first:
+      213: -2641277438542700633
+    second: KeyboardSignsTexture_12
+  - first:
+      213: 1526039812443601664
+    second: KeyboardSignsTexture_13
+  - first:
+      213: -174348991040314666
+    second: KeyboardSignsTexture_14
+  - first:
+      213: 7564602077674756908
+    second: KeyboardSignsTexture_15
+  - first:
+      213: -3724004914778039675
+    second: KeyboardSignsTexture_16
+  - first:
+      213: 6231457597982715918
+    second: KeyboardSignsTexture_17
+  - first:
+      213: -485785899383747822
+    second: KeyboardSignsTexture_18
+  - first:
+      213: 7656311312698907740
+    second: KeyboardSignsTexture_19
+  - first:
+      213: 4806889506047583675
+    second: KeyboardSignsTexture_20
+  - first:
+      213: -2274748705879038126
+    second: KeyboardSignsTexture_21
+  - first:
+      213: 6633294050928984182
+    second: KeyboardSignsTexture_22
+  - first:
+      213: 6633785166492910354
+    second: KeyboardSignsTexture_23
+  - first:
+      213: -8115193417776962389
+    second: KeyboardSignsTexture_24
+  - first:
+      213: -7555398898111341498
+    second: KeyboardSignsTexture_25
+  - first:
+      213: -6140840835035661659
+    second: KeyboardSignsTexture_26
+  - first:
+      213: 1534281462867554880
+    second: KeyboardSignsTexture_27
+  - first:
+      213: -748210437145680314
+    second: KeyboardSignsTexture_28
+  - first:
+      213: 9097785350568055943
+    second: KeyboardSignsTexture_29
+  - first:
+      213: 3446999673966912777
+    second: KeyboardSignsTexture_30
+  - first:
+      213: 4520993449448900597
+    second: KeyboardSignsTexture_31
+  - first:
+      213: 7797459839654005275
+    second: KeyboardSignsTexture_32
+  - first:
+      213: -8868143961438515141
+    second: KeyboardSignsTexture_33
+  - first:
+      213: 219029707578454984
+    second: KeyboardSignsTexture_34
+  - first:
+      213: -3181937898632845836
+    second: KeyboardSignsTexture_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1205
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de95293289460060800000000000000
+      internalID: 6919298701154688721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1206
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31744a7b17049fbc0800000000000000
+      internalID: -3748894357652748525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1208
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942e95befd77fa110800000000000000
+      internalID: 1274369023179088457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1211
+        width: 63
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8ca41c784e14b0800000000000000
+      internalID: -5467853199821206724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1211
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9b0cb09af348990800000000000000
+      internalID: -7384707493701568089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_5
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1208
+        width: 65
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d27544c03ef9d90800000000000000
+      internalID: -7088697646632194783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_6
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1211
+        width: 106
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b12e4d78dbca740800000000000000
+      internalID: 5164711263776938867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 986
+        width: 118
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e3fbf170ed0e50800000000000000
+      internalID: 6777319794425455970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 982
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eab896979e1871f0800000000000000
+      internalID: -1047053276948153628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 994
+        width: 94
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738c192cf1bed3680800000000000000
+      internalID: -8773597977407010761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 983
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1e4a4d08c8e3fe0800000000000000
+      internalID: -1207373165137436205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_11
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 984
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9296c14ac9c8f8340800000000000000
+      internalID: 4868264326606907689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 986
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af986ae92c485bd0800000000000000
+      internalID: -2641277438542700633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 746
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bfdc5cf159d2510800000000000000
+      internalID: 1526039812443601664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 747
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d228123486949df0800000000000000
+      internalID: -174348991040314666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 757
+        width: 126
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b5cfab28ddaf860800000000000000
+      internalID: 7564602077674756908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_16
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 757
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a98d8b24da15cc0800000000000000
+      internalID: -3724004914778039675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_17
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 747
+        width: 60
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e003ba07ba59a7650800000000000000
+      internalID: 6231457597982715918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_18
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 748
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b865e5c442249f0800000000000000
+      internalID: -485785899383747822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 489
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c1933f29ea04a60800000000000000
+      internalID: 7656311312698907740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 489
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5e48aa98085b240800000000000000
+      internalID: 4806889506047583675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 494
+        width: 57
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257ecc8aa187e60e0800000000000000
+      internalID: -2274748705879038126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_22
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 493
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670855c6bc13e0c50800000000000000
+      internalID: 6633294050928984182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_23
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 492
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c01d2670ff0c50800000000000000
+      internalID: 6633785166492910354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_24
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 500
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e0d9259a016f80800000000000000
+      internalID: -8115193417776962389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_25
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 488
+        width: 100
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c12bd7bb4d52790800000000000000
+      internalID: -7555398898111341498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 239
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa7c7dcbc957caa0800000000000000
+      internalID: -6140840835035661659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 222
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042ffab8cdcda4510800000000000000
+      internalID: 1534281462867554880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 222
+        width: 61
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64621b45292dd95f0800000000000000
+      internalID: -748210437145680314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_29
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 222
+        width: 85
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7849c5ff293d14e70800000000000000
+      internalID: 9097785350568055943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_30
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 223
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9056fa3c0f336df20800000000000000
+      internalID: 3446999673966912777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_31
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 222
+        width: 106
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7054ac69bcdbe30800000000000000
+      internalID: 4520993449448900597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_32
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 221
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a83f45964263c60800000000000000
+      internalID: 7797459839654005275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b309e617d060ee480800000000000000
+      internalID: -8868143961438515141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 81
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3b87bcb562a0300800000000000000
+      internalID: 219029707578454984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardSignsTexture_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 81
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e2aef65c77d3d0800000000000000
+      internalID: -3181937898632845836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e7c583a90d324dc8935e875feaaba5e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
